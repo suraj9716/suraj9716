@@ -1,7 +1,7 @@
 Hello, 👋 I,m Suraj
 
 ### About Me
-Aspiring full-stack developer with specialization in MERN stack. Self-motivated and curious, would like to be associated with a progressive organization that would foster creative skills and helps to grow along with the company.
+Aspiring full-stack developer with specialization in Java Backend Development. Self-motivated and curious, would like to be associated with a progressive organization that would foster creative skills and helps to grow along with the company.
 
 - 🌱 I'm currently learning Java Backend Development from Masai School.
 - 🔭 Good in **java Backend Developer**
