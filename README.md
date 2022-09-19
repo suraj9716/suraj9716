@@ -4,7 +4,7 @@ Hello, 👋 I,m Suraj
 Aspiring full-stack developer with specialization in MERN stack. Self-motivated and curious, would like to be associated with a progressive organization that would foster creative skills and helps to grow along with the company.
 
 - 🌱 I'm currently learning Full-stack Web Development from Masai School Bangalore.
-- 🔭 Good in **MERN Stack**
+- 🔭 Good in **java Backend Developer**
 - 👯 I'm looking to collaborate on Good Thoughts
 - 💬 Ask me about Coding...
 - 📫 How to reach me: ss971600@gmail.com
