@@ -9,7 +9,7 @@ Aspiring full-stack developer with specialization in MERN stack. Self-motivated 
 - 💬 Ask me about Coding...
 - 📫 How to reach me: ss971600@gmail.com
 - ⚡ Know more: [My Portfolio](https://suraj9716.github.io/suraj/)
-- ⚡ Know more: [My Linkden](https://www.linkedin.com/in/suraj9716/)
+- ⚡ Know more: [My Linkedin](https://www.linkedin.com/in/suraj9716/)
 - 👯 Interested in coding....
 - 👯 Self Motivated
 
