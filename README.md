@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Suraj</h1>
+
 <h3 align="center">A Java Backend developer from India</h3>
+<p>Aspiring Java Backend Developer. An individual who can write clean and optimize code. Like to solve Data Structure and Algorithms problems. Looking for enhancing my skills as a Backend Developer.<p/>
+<h3>About Me</h3>
+<p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suraj9716&label=Profile%20views&color=0e75b6&style=flat" alt="suraj9716" /> </p>
 
