@@ -13,11 +13,6 @@ Aspiring full-stack developer with specialization in Java Backend Development. S
 - 👯 Interested in coding....
 - 👯 Self Motivated
 
-### Tech-Stack
-
-##### HTML | CSS | JavaScript | Java | Express | MongoDB | Mongoose | SQL
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suraj9716&label=Profile%20views&color=0e75b6&style=flat" alt="suraj9716" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suraj9716" alt="suraj9716" /></a> </p>
