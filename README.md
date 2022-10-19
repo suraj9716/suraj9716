@@ -13,6 +13,16 @@ Aspiring full-stack developer with specialization in Java Backend Development. S
 - 👯 Interested in coding....
 - 👯 Self Motivated
 
+
+name: Half-year calendar
+uses: lowlighter/metrics@latest
+with:
+  filename: metrics.plugin.isocalendar.svg
+  token: ${{ secrets.METRICS_TOKEN }}
+  base: ""
+  plugin_isocalendar: yes
+
+
 ### Tech-Stack
 
 ##### HTML | CSS | JavaScript | Java | Express | MongoDB | Mongoose | SQL
