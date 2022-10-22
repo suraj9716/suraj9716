@@ -22,7 +22,7 @@ Aspiring full-stack developer with specialization in Java Backend Development. S
 <a href="https://linkedin.com/in/suraj9716" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suraj9716" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucu-wuvv7oxznvhvqkmbqbwg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucu-wuvv7oxznvhvqkmbqbwg" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ss971600?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ss971600?hr_r=1" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/surajsuraj/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/surajsuraj/" height="30" width="40" /></a>
+<a href="https://leetcode.com/suraj9716/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/surajsuraj/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
