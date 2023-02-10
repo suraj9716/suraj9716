@@ -1,4 +1,4 @@
-Hello, 👋 I, m Suraj
+Hello, 👋 I' m Suraj
 
 Aspiring Java Backend Developer. An individual who can write clean and optimize code. Passion to solve Data Structure and Algorithms problems. Looking for enhancing my skills as a Backend Developer, would like to be associated with a progressive organization that would foster creative skills and helps to grow along with the company.
 
