@@ -5,7 +5,7 @@ Aspiring Java Backend Developer. An individual who can write clean and optimize 
 - 🌱 I'm currently learning Java Backend Development from Masai School.
 - 🔭 Good in **java Backend Developer**
 - 👯 I'm looking to collaborate on Good Thoughts
-- 💬 Ask me about Coding...
+- 💬 Ask me about Coding..
 - 📫 How to reach me: ss971600@gmail.com
 - ⚡ Know more: [My Portfolio](https://suraj9716.github.io/suraj/)
 - ⚡ Know more: [My Linkedin](https://www.linkedin.com/in/suraj9716/)
