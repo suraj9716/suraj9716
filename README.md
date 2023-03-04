@@ -9,7 +9,7 @@ Aspiring Java Backend Developer. An individual who can write clean and optimize 
 - 📫 How to reach me: ss971600@gmail.com
 - ⚡ Know more: [My Portfolio](https://suraj9716.github.io/suraj/)
 - ⚡ Know more: [My Linkedin](https://www.linkedin.com/in/suraj9716/)
-- 👯 Interested in coding..
+- 👯 Interested in coding...
 - 👯 Self Motivated
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suraj9716&label=Profile%20views&color=0e75b6&style=flat" alt="suraj9716" /> </p>
